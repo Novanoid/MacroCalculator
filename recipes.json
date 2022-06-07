@@ -1,0 +1,213 @@
+[
+    {
+        "name": "Scrambled Eggs and Baked Beans",
+        "img": "",
+        "serving_size": 1.0,
+        "price_per_serving": 0.52,
+        "ratio": 0.32,
+        "energy": 433.32,
+        "fat": 19.68,
+        "saturates": 5.95,
+        "carbohydrate": 32.55,
+        "sugars": 7.6,
+        "fibre": 9.86,
+        "protein": 27.67,
+        "salt": 1.65,
+        "ingredients": [
+            {
+                "product": "Sainsbury's Woodland Free Range Large Eggs x12",
+                "price": 0.36,
+                "amount": {
+                    "measure": "ea",
+                    "value": "2.0"
+                },
+                "energy": 170.0,
+                "fat": 11.41,
+                "saturates": 3.21,
+                "carbohydrate": 0.59,
+                "sugars": 0.59,
+                "fibre": 0.59,
+                "protein": 16.76,
+                "salt": 0.45
+            },
+            {
+                "product": "Sainsbury's Baked Beans In Tomato Sauce 4x400g",
+                "price": 0.1,
+                "amount": {
+                    "measure": "g",
+                    "value": "133.0"
+                },
+                "energy": 111.72,
+                "fat": 0.67,
+                "saturates": 0.13,
+                "carbohydrate": 17.29,
+                "sugars": 5.72,
+                "fibre": 6.65,
+                "protein": 6.12,
+                "salt": 0.7
+            },
+            {
+                "product": "Sainsbury's Medium Sliced Wholemeal Bread 800g",
+                "price": 0.03,
+                "amount": {
+                    "measure": "g",
+                    "value": "39.7"
+                },
+                "energy": 92.9,
+                "fat": 1.15,
+                "saturates": 0.24,
+                "carbohydrate": 14.57,
+                "sugars": 1.19,
+                "fibre": 2.62,
+                "protein": 4.72,
+                "salt": 0.35
+            },
+            {
+                "product": "Clover Spread 500g",
+                "price": 0.03,
+                "amount": {
+                    "measure": "g",
+                    "value": "10.0"
+                },
+                "energy": 58.7,
+                "fat": 6.45,
+                "saturates": 2.37,
+                "carbohydrate": 0.1,
+                "sugars": 0.1,
+                "fibre": 0.0,
+                "protein": 0.07,
+                "salt": 0.15
+            }
+        ]
+    },
+    {
+        "name": "Porridge",
+        "img": "",
+        "serving_size": 1.0,
+        "price_per_serving": 0.6,
+        "ratio": 0.30,
+        "energy": 391.1,
+        "fat": 14.75,
+        "saturates": 3.88,
+        "carbohydrate": 39.19,
+        "sugars": 14.15,
+        "fibre": 5.84,
+        "protein": 23.08,
+        "salt": 0.33,
+        "ingredients": [
+            {
+                "product": "Sainsbury's Scottish Porridge Oats 1.5kg",
+                "price": 0.05,
+                "amount": {
+                    "measure": "g",
+                    "value": "40.0"
+                },
+                "energy": 145.2,
+                "fat": 2.8,
+                "saturates": 0.4,
+                "carbohydrate": 24.2,
+                "sugars": 0.44,
+                "fibre": 3.32,
+                "protein": 4.12,
+                "salt": 0.0
+            },
+            {
+                "product": "Sainsbury's British Semi Skimmed Milk 1.13L (2 pint)",
+                "price": 0.17,
+                "amount": {
+                    "measure": "ml",
+                    "value": "200.0"
+                },
+                "energy": 100.0,
+                "fat": 3.6,
+                "saturates": 2.2,
+                "carbohydrate": 9.6,
+                "sugars": 9.6,
+                "fibre": 1.0,
+                "protein": 7.2,
+                "salt": 0.22
+            },
+            {
+                "product": "Sainsbury's Peanut Butter Crunchy 340g",
+                "price": 0.06,
+                "amount": {
+                    "measure": "g",
+                    "value": "15.0"
+                },
+                "energy": 94.8,
+                "fat": 7.8,
+                "saturates": 1.06,
+                "carbohydrate": 1.75,
+                "sugars": 0.93,
+                "fibre": 0.81,
+                "protein": 3.99,
+                "salt": 0.07
+            },
+            {
+                "product": "Bulk Vanilla Protein Powder",
+                "price": 0.15,
+                "amount": {
+                    "measure": "g",
+                    "value": "10.0"
+                },
+                "energy": 37.6,
+                "fat": 0.4,
+                "saturates": 0.22,
+                "carbohydrate": 0.91,
+                "sugars": 0.45,
+                "fibre": 0.26,
+                "protein": 7.5,
+                "salt": 0.04
+            },
+            {
+                "product": "Sainsbury's Frozen Blueberries 400g",
+                "price": 0.17,
+                "amount": {
+                    "measure": "g",
+                    "value": "30.0"
+                },
+                "energy": 13.5,
+                "fat": 0.15,
+                "saturates": 0.0,
+                "carbohydrate": 2.73,
+                "sugars": 2.73,
+                "fibre": 0.45,
+                "protein": 0.27,
+                "salt": 0.0
+            }
+        ]
+    },
+    {
+        "name": "Bulk Protein Powder",
+        "img": "",
+        "serving_size": 1.0,
+        "price_per_serving": 0.45,
+        "ratio": 1.0,
+        "energy": 112.8,
+        "fat": 1.2,
+        "saturates": 0.66,
+        "carbohydrate": 2.73,
+        "sugars": 1.35,
+        "fibre": 0.78,
+        "protein": 22.5,
+        "salt": 0.11,
+        "ingredients": [
+            {
+                "name": "Bulk Vanilla Protein Powder",
+                "price": 0.45,
+                "amount": {
+                    "measure": "g",
+                    "value": 30.0
+                },
+                "energy": 112.8,
+                "fat": 1.2,
+                "saturates": 0.66,
+                "carbohydrate": 2.73,
+                "sugars": 1.35,
+                "fibre": 0.78,
+                "protein": 22.5,
+                "salt": 0.11
+            }
+        ]
+    }
+]

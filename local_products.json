@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Bulk Vanilla Protein Powder",
+        "unit_price": {
+        "price": 1.49,
+        "measure": "g",
+        "measure_amount": 100
+        },
+        "amount": "100g",
+        "energy": "376kcal",
+        "fat": "4g",
+        "saturates": "2.2g",
+        "carbohydrate": "9.1g",
+        "sugars": "4.5g",
+        "fibre": "2.6g",
+        "protein": "75g",
+        "salt": "0.38g"
+    }
+]

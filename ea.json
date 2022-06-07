@@ -1,0 +1,659 @@
+[
+    {
+        "name": "Artichoke",
+        "serving": {
+            "type": "artichoke",
+            "calories": 60
+        }
+    },
+    {
+        "name": "Arugula",
+        "serving": {
+            "type": "leaf",
+            "calories": 1
+        }
+    },
+    {
+        "name": "Asparagus",
+        "serving": {
+            "type": "spear",
+            "calories": 2
+        }
+    },
+    {
+        "name": "Aubergine",
+        "serving": {
+            "type": "aubergine",
+            "calories": 115
+        }
+    },
+    {
+        "name": "Beetroot",
+        "serving": {
+            "type": "beet",
+            "calories": 35
+        }
+    },
+    {
+        "name": "Bell Pepper",
+        "serving": {
+            "type": "pepper",
+            "calories": 15
+        }
+    },
+    {
+        "name": "Black Olives",
+        "serving": {
+            "type": "olive",
+            "calories": 2
+        }
+    },
+    {
+        "name": "Broccoli",
+        "serving": {
+            "type": "bunch",
+            "calories": 207
+        }
+    },
+    {
+        "name": "Brussels Sprouts",
+        "serving": {
+            "type": "sprout",
+            "calories": 8
+        }
+    },
+    {
+        "name": "Cabbage",
+        "serving": {
+            "type": "head",
+            "calories": 227
+        }
+    },
+    {
+        "name": "Capsicum",
+        "serving": {
+            "type": "pepper",
+             "calories": 12
+        }
+    },
+    {
+        "name": "Carrot",
+        "serving": {
+            "type": "carrot",
+             "calories": 25
+        }
+    },
+    {
+        "name": "Cauliflower",
+        "serving": {
+            "type": "floweret",
+             "calories": 3
+        }
+    },
+    {
+        "name": "Celery",
+        "serving": {
+            "type": "stalk",
+             "calories": 6
+        }
+    },
+    {
+        "name": "Chard",
+        "serving": {
+            "type": "leaf",
+             "calories": 9
+        }
+    },
+    {
+        "name": "Cherry Tomato",
+        "serving": {
+            "type": "cherry",
+             "calories": 20
+        }
+    },
+    {
+        "name": "Chicory",
+        "serving": {
+            "type": "head",
+             "calories": 38
+        }
+    },
+    {
+        "name": "Chinese Cabbage",
+        "serving": {
+            "type": "head",
+             "calories": 134
+        }
+    },
+    {
+        "name": "Chives",
+        "serving": {
+            "type": "tbsp, chopped",
+             "calories": 1
+        }
+    },
+    {
+        "name": "Collard Greens",
+        "serving": {
+            "type": "cup, raw",
+             "calories": 12
+        }
+    },
+    {
+        "name": "Corn",
+        "serving": {
+            "type": "cup",
+             "calories": 562
+        }
+    },
+    {
+        "name": "Courgette",
+        "serving": {
+            "type": "courgette",
+             "calories": 33
+        }
+    },
+    {
+        "name": "Creamed Spinach",
+        "serving": {
+            "type": "cup",
+             "calories": 148
+        }
+    },
+    {
+        "name": "cucumber",
+        "serving": {
+            "type": "cucumber",
+             "calories": 66
+        }
+    },
+    {
+        "name": "eggplant",
+        "serving": {
+            "type": "eggplant",
+             "calories": 115
+        }
+    },
+    {
+        "name": "Endive",
+        "serving": {
+            "type": "head",
+             "calories": 87
+        }
+    },
+    {
+        "name": "Fennel",
+        "serving": {
+            "type": "bulb",
+             "calories": 73
+        }
+    },
+    {
+        "name": "Garlic",
+        "serving": {
+            "type": "clove",
+             "calories": 4
+        }
+    },
+    {
+        "name": "Gherkin",
+        "serving": {
+            "type": "gherkin",
+             "calories": 9
+        }
+    },
+    {
+        "name": "Gourd",
+        "serving": {
+            "type": "gourd",
+             "calories": 108
+        }
+    },
+    {
+        "name": "Green Beans",
+        "serving": {
+            "type": "cup",
+             "calories": 34
+        }
+    },
+    {
+        "name": "Green Olives",
+        "serving": {
+            "type": "olive",
+             "calories": 2
+        }
+    },
+    {
+        "name": "Green Onions",
+        "serving": {
+            "type": "green",
+             "calories": 5
+        }
+    },
+    {
+        "name": "Horseradish",
+        "serving": {
+            "type": "tbsp",
+             "calories": 7
+        }
+    },
+    {
+        "name": "Kale",
+        "serving": {
+            "type": "cup, chopped",
+             "calories": 33
+        }
+    },
+    {
+        "name": "Kohlrabi",
+        "serving": {
+            "type": "kohlrabi",
+             "calories": 108
+        }
+    },
+    {
+        "name": "Kumara",
+        "serving": {
+            "type": "kumara",
+             "calories": 112
+        }
+    },
+    {
+        "name": "Leek",
+        "serving": {
+            "type": "leek",
+             "calories": 54
+        }
+    },
+    {
+        "name": "Lettuce",
+        "serving": {
+            "type": "head",
+             "calories": 90
+        }
+    },
+    {
+        "name": "Mushrooms",
+        "serving": {
+            "type": "mushroom",
+             "calories": 1
+        }
+    },
+    {
+        "name": "Mustard Greens",
+        "serving": {
+            "type": "cup, chopped",
+             "calories": 15
+        }
+    },
+    {
+        "name": "Nori",
+        "serving": {
+            "type": "sheet",
+             "calories": 1
+        }
+    },
+    {
+        "name": "Okra",
+        "serving": {
+            "type": "pod",
+             "calories": 4
+        }
+    },
+    {
+        "name": "Olives",
+        "serving": {
+            "type": "olive",
+             "calories": 2
+        }
+    },
+    {
+        "name": "Onion",
+        "serving": {
+            "type": "onion",
+             "calories": 34
+        }
+    },
+    {
+        "name": "Parsnip",
+        "serving": {
+            "type": "parsnip",
+             "calories": 128
+        }
+    },
+    {
+        "name": "Peas",
+        "serving": {
+            "type": "cup",
+             "calories": 79
+        }
+    },
+    {
+        "name": "Pepper",
+        "serving": {
+            "type": "pepper",
+             "calories": 20
+        }
+    },
+    {
+        "name": "Potato",
+        "serving": {
+            "type": "potato",
+             "calories": 164
+        }
+    },
+    {
+        "name": "Pumpkin",
+        "serving": {
+            "type": "pumpkin",
+             "calories": 51
+        }
+    },
+    {
+        "name": "Radishes",
+        "serving": {
+            "type": "radish",
+             "calories": 1
+        }
+    },
+    {
+        "name": "Red Cabbage",
+        "serving": {
+            "type": "leaf",
+             "calories": 7
+        }
+    },
+    {
+        "name": "Rutabaga",
+        "serving": {
+            "type": "rutabaga",
+             "calories": 147
+        }
+    },
+    {
+        "name": "Shallots",
+        "serving": {
+            "type": "shallot",
+             "calories": 18
+        }
+    },
+    {
+        "name": "Spinach",
+        "serving": {
+            "type": "bunch",
+             "calories": 78
+        }
+    },
+    {
+        "name": "Squash",
+        "serving": {
+            "type": "squash",
+             "calories": 88
+        }
+    },
+    {
+        "name": "Sweet Potato",
+        "serving": {
+            "type": "potato",
+             "calories": 112
+        }
+    },
+    {
+        "name": "Tomato",
+        "serving": {
+            "type": "tomato",
+             "calories": 20
+        }
+    },
+    {
+        "name": "Turnip Greens",
+        "serving": {
+            "type": "turnip",
+             "calories": 34
+        }
+    },
+    {
+        "name": "Turnips",
+        "serving": {
+            "type": "turnip",
+             "calories": 34
+        }
+    },
+    {
+        "name": "Wasabi",
+        "serving": {
+            "type": "root",
+             "calories": 184
+        }
+    },
+    {
+        "name": "Winter Squash",
+        "serving": {
+            "type": "squash",
+             "calories": 147
+        }
+    },
+    {
+        "name": "Zucchini",
+        "serving": {
+            "type": "zucchini",
+             "calories": 33
+        }
+    },
+    {
+        "name": "Apple",
+        "serving": {
+            "calories": 95
+        }
+    },
+    {
+        "name": "Apricot",
+        "serving": {
+            "calories": 17
+        }
+    },
+    {
+        "name": "Avocado",
+        "serving": {
+            "calories": 320
+        }
+    },
+    {
+        "name": "Banana",
+        "serving": {
+            "calories": 111
+        }
+    },
+    {
+        "name": "Cherries",
+        "serving": {
+            "calories": 4
+        }
+    },
+    {
+        "name": "Dates",
+        "serving": {
+            "calories": 20
+        }
+    },
+    {
+        "name": "Figs",
+        "serving": {
+            "calories": 37
+        }
+    },
+    {
+        "name": "Greengage",
+        "serving": {
+            "calories": 2
+        }
+    },
+    {
+        "name": "Guava",
+        "serving": {
+            "calories": 37
+        }
+    },
+    {
+        "name": "Kiwi",
+        "serving": {
+            "calories": 112
+        }
+    },
+    {
+        "name": "Lemon",
+        "serving": {
+            "calories": 17
+        }
+    },
+    {
+        "name": "Lime",
+        "serving": {
+            "calories": 20
+        }
+    },
+    {
+        "name": "Lychees",
+        "serving": {
+            "calories": 7
+        }
+    },
+    {
+        "name": "Mandarin Oranges",
+        "serving": {
+            "calories": 47
+        }
+    },
+    {
+        "name": "Mango",
+        "serving": {
+            "calories": 202
+        }
+    },
+    {
+        "name": "Minneola",
+        "serving": {
+            "calories": 70
+        }
+    },
+    {
+        "name": "Nectarine",
+        "serving": {
+            "calories": 66
+        }
+    },
+    {
+        "name": "Olives",
+        "serving": {
+            "calories": 2
+        }
+    },
+    {
+        "name": "Orange",
+        "serving": {
+            "calories": 62
+        }
+    },
+    {
+        "name": "Papaya",
+        "serving": {
+            "calories": 215
+        }
+    },
+    {
+        "name": "Passion Fruit",
+        "serving": {
+            "calories": 17
+        }
+    },
+    {
+        "name": "Peach",
+        "serving": {
+            "calories": 59
+        }
+    },
+    {
+        "name": "Pear",
+        "serving": {
+            "calories": 101
+        }
+    },
+    {
+        "name": "Pearsimmon",
+        "serving": {
+            "calories": 32
+        }
+    },
+    {
+        "name": "Physalis",
+        "serving": {
+            "calories": 2
+        }
+    },
+    {
+        "name": "Pineapple",
+        "serving": {
+            "calories": 453
+        }
+    },
+    {
+        "name": "Plantains",
+        "serving": {
+            "calories": 218
+        }
+    },
+    {
+        "name": "Plum",
+        "serving": {
+            "calories": 30
+        }
+    },
+    {
+        "name": "Pomegranate",
+        "serving": {
+            "calories": 234
+        }
+    },
+    {
+        "name": "Quince",
+        "serving": {
+            "calories": 52
+        }
+    },
+    {
+        "name": "Rambutan",
+        "serving": {
+            "calories": 7
+        }
+    },
+    {
+        "name": "Rhubarb",
+        "serving": {
+            "calories": 11
+        }
+    },
+    {
+        "name": "Starfruit",
+        "serving": {
+            "calories": 28
+        }
+    },
+    {
+        "name": "Tamarind",
+        "serving": {
+            "calories": 5
+        }
+    },
+    {
+        "name": "Tangerine",
+        "serving": {
+            "calories": 47
+        }
+    },
+        {
+        "name": "Large Egg",
+        "serving": {
+            "calories": 85
+        }
+    }
+]
